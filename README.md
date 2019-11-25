@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# vaneewang.github.io
+Repository for Fan Wang's academic research website.
